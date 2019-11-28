@@ -1,0 +1,15 @@
+@import url(d:\大实训一\项目\houtai\src\assets\baseCss\normalize.css);
+body, html, #app {
+  width: 100%;
+  height: 100%;
+  background: #eaedf1;
+}
+
+body, html, h2, h4, h3, h5, h6, p, ul, ol, li {
+  margin: 0;
+  padding: 0;
+}
+
+ul, ol, li {
+  list-style: none;
+}
